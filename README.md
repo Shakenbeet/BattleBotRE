@@ -1,2 +1,2 @@
-# BattleBotRE
+# BattleBot:RE
 Battlebot Remake
